@@ -1,0 +1,7 @@
+1- It takes the path of a folde containing one or more Files (txt)
+2- It extracts the longest word in each File (txt) and the shortest word in each File (txt)
+3- It counts the number of words (am - is - are ) in each File (txt)
+1- It takes the path of a folder containing one or more Files (txt)
+2- It identifies the Files (txt)in the folder and within the sub-folder 
+3- It extracts the longest word in each File (txt)and the shortest word in each File (txt)
+4- It counts the number of words (am - is - are) in each File (txt)
